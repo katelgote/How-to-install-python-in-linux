@@ -1,4 +1,4 @@
-# How-to-install-python-in-linux
+# How-to-install-python-jupyter-in-linux
 
 Example:- python 3.7.7
 Check which partition has maximum space. Ex:- /home
